@@ -1,0 +1,9 @@
+C:\Users\Matt\Dropbox\Design Patterns\AdapterDesignPattern\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+C:\Users\Matt\Dropbox\Design Patterns\AdapterDesignPattern\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Dropbox\Design Patterns\AdapterDesignPattern\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.Properties.Resources.resources
+C:\Users\Matt\Dropbox\Design Patterns\AdapterDesignPattern\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csproj.GenerateResource.Cache
+C:\Users\Matt\Dropbox\Design Patterns\AdapterDesignPattern\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Users\Matt\Dropbox\Design Patterns\AdapterDesignPattern\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\Matt\Dropbox\Design Patterns\AdapterDesignPattern\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+C:\Users\Matt\Dropbox\Design Patterns\AdapterDesignPattern\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
+C:\Users\Matt\Dropbox\Design Patterns\AdapterDesignPattern\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.Form1.resources
